@@ -19,5 +19,5 @@ NLP Tools: TextBlob, VADER
 
 Your project is live at:
 
-**[https://vercel.com/mohdmaazganis-projects/v0-college-event-feedback-app](https://vercel.com/mohdmaazganis-projects/v0-college-event-feedback-app)**
+**https://v0-college-event-feedback-app.vercel.app/**
 
